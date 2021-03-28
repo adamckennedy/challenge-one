@@ -8,7 +8,7 @@ To refactor the code of a website offering SEO and online reputation management 
 *css
 
 ## Screenshot
-[Screenshot](Develop/assets/images/Screenshot.png)
+[Screenshot](https://github.com/adamckennedy/challenge-one/blob/main/assets/images/Screenshot.png?raw=true)
 
 ## Live Website
 https://adamckennedy.github.io/challenge-one/
