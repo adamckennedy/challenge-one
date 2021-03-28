@@ -8,7 +8,7 @@ A website that offers SEO and online reputation management solutions, refactored
 *css
 
 ## Website
-https://adamckennedy.github.io/challenge-1/
+https://adamckennedy.github.io/challenge-one/
 
 ## Contribution
 Made with ❤️ by Adam C. Kennedy
