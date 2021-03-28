@@ -1,16 +1,19 @@
-# Horiseon Homepage
+# Horiseon Homepage Code Refactor
 
 ## Purpose
-A website that offers SEO and online reputation management solutions, refactored to meet current accessibility requirements.
+To refactor the code of a website offering SEO and online reputation management solutions to meet current accessibility requirements. 
 
 ## Built With
 *html
 *css
 
-## Website
-https://adamckennedy.github.io/challenge-1/
+## Screenshot
+[Screenshot](Develop/assets/images/Screenshot.png)
+
+## Live Website
+https://adamckennedy.github.io/challenge-one/
 
 ## Contribution
 Made with ❤️ by Adam C. Kennedy
 
-### ©️2021 Horiseon, Inc 
+### @2021 Horiseon, Inc. 
